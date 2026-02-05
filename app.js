@@ -7,3 +7,4 @@ console.log("let's go");
 //new feature
 alert("feature");
 alert("feature2 is here");
+console.log("let's go");
